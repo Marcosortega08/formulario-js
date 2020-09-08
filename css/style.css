@@ -1,0 +1,25 @@
+body{
+    background: white;
+}
+.caja{
+    border: 1px solid red;
+    margin-bottom: 30px;
+    padding: 16px;
+    box-shadow: 3px 3px 10px grey;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.caja input{
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.caja button{
+    padding: 8px;
+    background: indigo;
+border: 0px;
+box-shadow: 3px 3px 10px gray;
+color: white;
+}
